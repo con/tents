@@ -12,6 +12,27 @@ README_PATH = "README.md"
 TABLE_START = "<!-- TABLE_START -->"
 TABLE_END = "<!-- TABLE_END -->"
 
+# Repos whose names form a compound word when prefixed with "con".
+# Maps repo name -> display label (e.g. "cierge" -> "con/cierge" = concierge).
+CON_WORDPLAY_DISPLAY = {
+    "catenate": "con/catenate",       # concatenate
+    "cierge": "con/cierge",           # concierge
+    "CONveyor": "con/veyor",          # conveyor
+    "duct": "con/duct",               # conduct
+    "ference": "con/ference",         # conference
+    "flux": "con/flux",               # conflux
+    "job": "con/job",                 # con job
+    "noisseur": "con/noisseur",       # connoisseur
+    "quest": "con/quest",             # conquest
+    "serve": "con/serve",             # conserve
+    "tents": "con/tents",             # contents
+    "tinuous": "con/tinuous",         # continuous
+    "tinuous-template": "con/tinuous-template",
+    "tinuum": "con/tinuum",           # continuum
+    "tributors": "con/tributors",     # contributors
+    "versations": "con/versations",   # conversations
+}
+
 
 def get_headers():
     token = os.environ.get("GITHUB_TOKEN", "")
@@ -71,7 +92,8 @@ def build_table(repos, headers):
         prs = get_open_prs_count(name, headers)
         # open_issues_count includes both issues and PRs
         issues = max(0, repo["open_issues_count"] - prs)
-        rows.append(f"| [{name}]({url}) | {desc} | {issues} | {prs} | {stars} | {forks} |")
+        display = CON_WORDPLAY_DISPLAY.get(name, name)
+        rows.append(f"| [{display}]({url}) | {desc} | {issues} | {prs} | {stars} | {forks} |")
     return "\n".join(rows)
 
 
