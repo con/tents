@@ -19,6 +19,7 @@ CON_WORDPLAY_DISPLAY = {
     "cierge": "con/cierge",           # concierge
     "CONveyor": "con/veyor",          # conveyor
     "duct": "con/duct",               # conduct
+    "duct-gallery": "con/duct-gallery",
     "ference": "con/ference",         # conference
     "flux": "con/flux",               # conflux
     "job": "con/job",                 # con job

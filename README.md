@@ -18,7 +18,7 @@ Table of contents for the CON organization.
 | [demos](https://github.com/con/demos) | Various demos (ATM of con/duct) of tools in asciineema etc | 0 | 0 | 0 | 1 |
 | [docflow](https://github.com/con/docflow) | helper to collab on google docs etc | 1 | 0 | 0 | 0 |
 | [con/duct](https://github.com/con/duct) | A helper to run a command, capture stdout/stderr and details about running | 68 | 0 | 9 | 6 |
-| [duct-gallery](https://github.com/con/duct-gallery) |  | 1 | 0 | 0 | 0 |
+| [con/duct-gallery](https://github.com/con/duct-gallery) |  | 1 | 0 | 0 | 0 |
 | [dump-research-info](https://github.com/con/dump-research-info) | A repo that gathers research information related to Center for Open Neuroscience with a tool to dump the gathered info to an instance of dump-things-server | 4 | 0 | 0 | 0 |
 | [external-services](https://github.com/con/external-services) | A simple registry of external services to use for YOUR hosted files | 2 | 0 | 0 | 0 |
 | [con/ference](https://github.com/con/ference) | (Idea stage) Open-source platform for virtual&hybrid conferencing | 18 | 0 | 13 | 0 |
