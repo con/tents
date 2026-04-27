@@ -30,7 +30,7 @@ Table of contents for the CON organization.
 | [jsdownloader](https://github.com/con/jsdownloader) | RFC/idea: a JS library to provide browser client side download from a list of "path": [candidate URLs] | 2 | 0 | 0 | 0 |
 | [liab-deployments](https://github.com/con/liab-deployments) | Fork from https://hub.psychoinformatics.de/lab-in-a-box/liab-deployments | 2 | 0 | 0 | 0 |
 | [con/noisseur](https://github.com/con/noisseur) | System for automated verification of entered/displayed information (on another computer) | 6 | 0 | 0 | 1 |
-| [nwb2bids](https://github.com/con/nwb2bids) | Reorganize NWB files into a BIDS directory layout. | 38 | 0 | 5 | 4 |
+| [nwb2bids](https://github.com/con/nwb2bids) | Reorganize NWB files into a BIDS directory layout. | 36 | 2 | 5 | 4 |
 | [open-brain-consent](https://github.com/con/open-brain-consent) | Making neuroimaging open from the grounds (consent form) and up (tools) | 38 | 0 | 45 | 37 |
 | [opfvta-reexecution](https://github.com/con/opfvta-reexecution) | Container-based Replication of https://doi.org/10.1038/s41398-022-01812-5 | 0 | 0 | 1 | 1 |
 | [con/quest](https://github.com/con/quest) | Meta-repository to discuss higher level aspects of search'ing for neural data | 1 | 0 | 0 | 0 |

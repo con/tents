@@ -68,18 +68,21 @@ def get_org_repos(headers):
 
 def get_open_prs_count(repo_name, headers):
     """Return the number of open pull requests for a repo."""
-    resp = requests.get(
-        f"https://api.github.com/repos/{ORG}/{repo_name}/pulls",
-        headers=headers,
-        params={"state": "open", "per_page": 1},
-    )
-    resp.raise_for_status()
-    link = resp.headers.get("Link", "")
-    if 'rel="last"' in link:
-        match = re.search(r'[?&]page=(\d+)>;\s*rel="last"', link)
-        if match:
-            return int(match.group(1))
-    return len(resp.json())
+    total = 0
+    page = 1
+    while True:
+        resp = requests.get(
+            f"https://api.github.com/repos/{ORG}/{repo_name}/pulls",
+            headers=headers,
+            params={"state": "open", "per_page": 100, "page": page},
+        )
+        resp.raise_for_status()
+        data = resp.json()
+        total += len(data)
+        if len(data) < 100:
+            break
+        page += 1
+    return total
 
 
 def build_table(repos, headers):
