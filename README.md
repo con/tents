@@ -5,7 +5,6 @@ Table of contents for the CON organization.
 <!-- TABLE_START -->
 | Name | Description | Issues | PRs | Stars | Forks |
 | --- | --- | --- | --- | --- | --- |
-| [.github](https://github.com/con/.github) | Common settings and THE README | 2 | 0 | 0 | 0 |
 | [annextube](https://github.com/con/annextube) | YouTube archive system using git-annex for efficient storage and incremental updates. | 2 | 0 | 1 | 0 |
 | [annextube-action](https://github.com/con/annextube-action) |  | 0 | 0 | 0 | 0 |
 | [annextubetesting](https://github.com/con/annextubetesting) | Repository with backup of @AnnexTubeTesting channel | 0 | 0 | 0 | 0 |

@@ -12,6 +12,9 @@ README_PATH = "README.md"
 TABLE_START = "<!-- TABLE_START -->"
 TABLE_END = "<!-- TABLE_END -->"
 
+# Repos to exclude from the table entirely.
+SKIP_REPOS = {".github"}
+
 # Repos whose names form a compound word when prefixed with "con".
 # Maps repo name -> display label (e.g. "cierge" -> "con/cierge" = concierge).
 CON_WORDPLAY_DISPLAY = {
@@ -86,6 +89,8 @@ def build_table(repos, headers):
     ]
     for repo in sorted(repos, key=lambda r: r["name"].lower()):
         name = repo["name"]
+        if name in SKIP_REPOS:
+            continue
         url = repo["html_url"]
         desc = (repo.get("description") or "").replace("|", "\\|")
         stars = repo["stargazers_count"]
