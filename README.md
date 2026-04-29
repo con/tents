@@ -13,14 +13,14 @@ Table of contents for the CON organization.
 | [con/catenate](https://github.com/con/catenate) | All the resources and conText a new conScript needs, smushed together into a single doc. | 3 | 0 | 2 | 4 |
 | [centerforopenneuroscience.org](https://github.com/con/centerforopenneuroscience.org) | Website materials | 8 | 0 | 4 | 25 |
 | [con/ceptualization](https://github.com/con/ceptualization) | Ideas for the projects | 1 | 0 | 0 | 0 |
-| [con/cierge](https://github.com/con/cierge) | Temporal itemization for the CON roadmap. | 8 | 1 | 1 | 0 |
+| [con/cierge](https://github.com/con/cierge) | Temporal itemization for the CON roadmap. | 10 | 0 | 1 | 0 |
 | [citations-collector](https://github.com/con/citations-collector) | Discover and curate scholarly citations of articles, datasets and software. | 3 | 0 | 2 | 0 |
 | [communitator](https://github.com/con/communitator) | RFC/idea: A Python module to assist contacting project's community | 2 | 0 | 1 | 0 |
 | [con-intro](https://github.com/con/con-intro) | intro content for CON | 0 | 0 | 0 | 1 |
 | [con/veyor](https://github.com/con/CONveyor) |  | 0 | 0 | 0 | 0 |
 | [demos](https://github.com/con/demos) | Various demos (ATM of con/duct) of tools in asciineema etc | 0 | 0 | 0 | 1 |
 | [docflow](https://github.com/con/docflow) | helper to collab on google docs etc | 1 | 0 | 0 | 0 |
-| [con/duct](https://github.com/con/duct) | A helper to run a command, capture stdout/stderr and details about running | 58 | 10 | 9 | 6 |
+| [con/duct](https://github.com/con/duct) | A helper to run a command, capture stdout/stderr and details about running | 58 | 13 | 9 | 6 |
 | [con/duct-gallery](https://github.com/con/duct-gallery) |  | 1 | 0 | 0 | 0 |
 | [dump-research-info](https://github.com/con/dump-research-info) | A repo that gathers research information related to Center for Open Neuroscience with a tool to dump the gathered info to an instance of dump-things-server | 4 | 0 | 0 | 0 |
 | [external-services](https://github.com/con/external-services) | A simple registry of external services to use for YOUR hosted files | 2 | 0 | 0 | 0 |
@@ -34,7 +34,7 @@ Table of contents for the CON organization.
 | [liab-deployments](https://github.com/con/liab-deployments) | Fork from https://hub.psychoinformatics.de/lab-in-a-box/liab-deployments | 1 | 1 | 0 | 0 |
 | [mind_2018](https://github.com/con/mind_2018) |  | 0 | 0 | 0 | 0 |
 | [con/noisseur](https://github.com/con/noisseur) | System for automated verification of entered/displayed information (on another computer) | 5 | 1 | 0 | 1 |
-| [nwb2bids](https://github.com/con/nwb2bids) | Reorganize NWB files into a BIDS directory layout. | 36 | 2 | 5 | 4 |
+| [nwb2bids](https://github.com/con/nwb2bids) | Reorganize NWB files into a BIDS directory layout. | 37 | 2 | 5 | 5 |
 | [open-brain-consent](https://github.com/con/open-brain-consent) | Making neuroimaging open from the grounds (consent form) and up (tools) | 36 | 2 | 45 | 37 |
 | [opfvta-reexecution](https://github.com/con/opfvta-reexecution) | Container-based Replication of https://doi.org/10.1038/s41398-022-01812-5 | 0 | 0 | 1 | 1 |
 | [con/quest](https://github.com/con/quest) | Meta-repository to discuss higher level aspects of search'ing for neural data | 1 | 0 | 0 | 0 |
@@ -48,6 +48,7 @@ Table of contents for the CON organization.
 | [sparkle-tools](https://github.com/con/sparkle-tools) |  | 1 | 0 | 1 | 2 |
 | [talks](https://github.com/con/talks) | GitHub Mirror of the https://datasets.datalad.org/?dir=/centerforopenneuroscience/talks where you can actually see them rendered | 0 | 1 | 0 | 0 |
 | [taxonomy-site-sandbox](https://github.com/con/taxonomy-site-sandbox) |  | 0 | 0 | 0 | 0 |
+| [con/tents](https://github.com/con/tents) | Table of contents for the CON organization. | 2 | 1 | 1 | 0 |
 | [con/tinuous](https://github.com/con/tinuous) | Download build logs and artifacts from GitHub Actions, Travis, and Appveyor | 26 | 5 | 10 | 4 |
 | [con/tinuous-inception](https://github.com/con/tinuous-inception) | CI logs for con/tinuous | 0 | 3 | 0 | 0 |
 | [con/tinuous-template](https://github.com/con/tinuous-template) | Copier template for tinuous | 0 | 0 | 0 | 0 |
@@ -60,5 +61,6 @@ Table of contents for the CON organization.
 | [vandermeerlab-to-bids](https://github.com/con/vandermeerlab-to-bids) | Conversion tools for ingesting data from the van der Meer group at Dartmouth College and outputting it into BEP-32 compliant datasets for upload to the DANDI Archive. | 2 | 0 | 1 | 0 |
 | [con/versations](https://github.com/con/versations) |  | 1 | 0 | 0 | 1 |
 | [visidata-demos](https://github.com/con/visidata-demos) | Various demos/explorations of data using visidata | 0 | 0 | 0 | 0 |
+| [work-history-data](https://github.com/con/work-history-data) | A raw API dump of GitHub activity for select CON members. | 0 | 1 | 1 | 0 |
 | [yolo](https://github.com/con/yolo) | Use podman to safely run claude-code with permission bypass (YOLO mode) | 14 | 1 | 10 | 5 |
 <!-- TABLE_END -->
