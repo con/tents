@@ -13,28 +13,32 @@ TABLE_START = "<!-- TABLE_START -->"
 TABLE_END = "<!-- TABLE_END -->"
 
 # Repos to exclude from the table entirely.
-SKIP_REPOS = {".github"}
+SKIP_REPOS = {".github", "try-aind-1"}
 
 # Repos whose names form a compound word when prefixed with "con".
 # Maps repo name -> display label (e.g. "cierge" -> "con/cierge" = concierge).
 CON_WORDPLAY_DISPLAY = {
-    "catenate": "con/catenate",       # concatenate
-    "cierge": "con/cierge",           # concierge
-    "CONveyor": "con/veyor",          # conveyor
-    "duct": "con/duct",               # conduct
+    "catenate": "con/catenate",
+    "ceptualization": "con/ceptualization",
+    "cierge": "con/cierge",
+    "CONveyor": "con/veyor",
+    "duct": "con/duct",
     "duct-gallery": "con/duct-gallery",
-    "ference": "con/ference",         # conference
-    "flux": "con/flux",               # conflux
-    "job": "con/job",                 # con job
-    "noisseur": "con/noisseur",       # connoisseur
-    "quest": "con/quest",             # conquest
-    "serve": "con/serve",             # conserve
-    "tents": "con/tents",             # contents
-    "tinuous": "con/tinuous",         # continuous
+    "ference": "con/ference",
+    "flux": "con/flux",
+    "job": "con/job",
+    "noisseur": "con/noisseur",
+    "quest": "con/quest",
+    "serve": "con/serve",
+    "serve-liab": "con/serve-liab",
+    "solidation": "con/solidation",
+    "tents": "con/tents",
+    "tinuous": "con/tinuous",
+    "tinuous-inception": "con/tinuous-inception",
     "tinuous-template": "con/tinuous-template",
-    "tinuum": "con/tinuum",           # continuum
-    "tributors": "con/tributors",     # contributors
-    "versations": "con/versations",   # conversations
+    "tinuum": "con/tinuum",
+    "tributors": "con/tributors",
+    "versations": "con/versations",
 }
 
 
