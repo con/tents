@@ -43,7 +43,8 @@ jobs:
             git checkout -b "$BRANCH"
             git commit -m "chore: update repo table [skip ci]"
             git push --force origin "$BRANCH"
-            if gh pr list --head "$BRANCH" --base main --json number --jq '.[0].number' | grep -q .; then
+            PR_COUNT=$(gh pr list --head "$BRANCH" --base main --json number --jq 'length')
+            if [ "$PR_COUNT" -gt 0 ]; then
               echo "PR already exists."
             else
               gh pr create \
