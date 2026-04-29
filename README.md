@@ -47,6 +47,7 @@ Table of contents for the CON organization.
 | [sparkle-tools](https://github.com/con/sparkle-tools) |  | 1 | 0 | 1 | 2 |
 | [talks](https://github.com/con/talks) | GitHub Mirror of the https://datasets.datalad.org/?dir=/centerforopenneuroscience/talks where you can actually see them rendered | 0 | 1 | 0 | 0 |
 | [taxonomy-site-sandbox](https://github.com/con/taxonomy-site-sandbox) |  | 0 | 0 | 0 | 0 |
+| [con/tents](https://github.com/con/tents) | Table of contents for the CON organization. | 2 | 1 | 1 | 0 |
 | [con/tinuous](https://github.com/con/tinuous) | Download build logs and artifacts from GitHub Actions, Travis, and Appveyor | 26 | 5 | 10 | 4 |
 | [con/tinuous-inception](https://github.com/con/tinuous-inception) | CI logs for con/tinuous | 0 | 3 | 0 | 0 |
 | [con/tinuous-template](https://github.com/con/tinuous-template) | Copier template for tinuous | 0 | 0 | 0 | 0 |
