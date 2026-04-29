@@ -11,7 +11,7 @@ Table of contents for the CON organization.
 | [annextubetesting](https://github.com/con/annextubetesting) | Repository with backup of @AnnexTubeTesting channel  | 0 | 0 | 0 | 0 |
 | [con/catenate](https://github.com/con/catenate) | All the resources and conText a new conScript needs, smushed together into a single doc. | 3 | 0 | 2 | 4 |
 | [centerforopenneuroscience.org](https://github.com/con/centerforopenneuroscience.org) | Website materials | 8 | 0 | 4 | 25 |
-| [ceptualization](https://github.com/con/ceptualization) | Ideas for the projects | 1 | 0 | 0 | 0 |
+| [con/ceptualization](https://github.com/con/ceptualization) | Ideas for the projects | 1 | 0 | 0 | 0 |
 | [con/cierge](https://github.com/con/cierge) | Temporal itemization for the CON roadmap. | 8 | 1 | 1 | 0 |
 | [citations-collector](https://github.com/con/citations-collector) | Discover and curate scholarly citations of articles, datasets and software. | 3 | 0 | 2 | 0 |
 | [communitator](https://github.com/con/communitator) | RFC/idea: A Python module to assist contacting project's community | 2 | 0 | 1 | 0 |
@@ -39,20 +39,19 @@ Table of contents for the CON organization.
 | [con/quest](https://github.com/con/quest) | Meta-repository to discuss higher level aspects of search'ing for neural data | 1 | 0 | 0 | 0 |
 | [scripts](https://github.com/con/scripts) | Various scripts for maintenance and administration of various things at CON and around | 0 | 0 | 0 | 0 |
 | [con/serve](https://github.com/con/serve) |  | 0 | 0 | 0 | 0 |
-| [serve-liab](https://github.com/con/serve-liab) | liab setup for conserve (explorations ATM of various potential setups) | 0 | 0 | 0 | 0 |
+| [con/serve-liab](https://github.com/con/serve-liab) | liab setup for conserve (explorations ATM of various potential setups) | 0 | 0 | 0 | 0 |
 | [shell-chronicle](https://github.com/con/shell-chronicle) | Persistent, infinite history of shell commands | 0 | 0 | 3 | 1 |
 | [shub](https://github.com/con/shub) | GitHub mirror of http://datasets.datalad.org/?dir=/shub providing historical copy of containers from https://singularity-hub.org | 2 | 0 | 1 | 0 |
 | [skills](https://github.com/con/skills) | Anthropics claude-code skills for the CON masses | 0 | 0 | 2 | 1 |
-| [solidation](https://github.com/con/solidation) | Produce activities reports from GitHub | 6 | 2 | 0 | 0 |
+| [con/solidation](https://github.com/con/solidation) | Produce activities reports from GitHub | 6 | 2 | 0 | 0 |
 | [sparkle-tools](https://github.com/con/sparkle-tools) |  | 1 | 0 | 1 | 2 |
 | [talks](https://github.com/con/talks) | GitHub Mirror of the https://datasets.datalad.org/?dir=/centerforopenneuroscience/talks where you can actually see them rendered | 0 | 1 | 0 | 0 |
 | [taxonomy-site-sandbox](https://github.com/con/taxonomy-site-sandbox) |  | 0 | 0 | 0 | 0 |
 | [con/tinuous](https://github.com/con/tinuous) | Download build logs and artifacts from GitHub Actions, Travis, and Appveyor | 26 | 5 | 10 | 4 |
-| [tinuous-inception](https://github.com/con/tinuous-inception) | CI logs for con/tinuous | 0 | 3 | 0 | 0 |
+| [con/tinuous-inception](https://github.com/con/tinuous-inception) | CI logs for con/tinuous | 0 | 3 | 0 | 0 |
 | [con/tinuous-template](https://github.com/con/tinuous-template) | Copier template for tinuous | 0 | 0 | 0 | 0 |
 | [con/tinuum](https://github.com/con/tinuum) | Resources (later might be a tool) to create reproducible computational environments | 7 | 0 | 0 | 0 |
 | [con/tributors](https://github.com/con/tributors) | Pay tribute to your contributors! A tool to automatically update contributor files. | 17 | 0 | 14 | 5 |
-| [try-aind-1](https://github.com/con/try-aind-1) | Throw away toy repo for doing AIND pipelines exploration | 0 | 0 | 0 | 0 |
 | [tube](https://github.com/con/tube) | some default | 0 | 0 | 0 | 1 |
 | [upptime](https://github.com/con/upptime) | Uptime of various CON project websites/services | 0 | 0 | 0 | 0 |
 | [utils](https://github.com/con/utils) | Collection of utils from CON folks. Mostly quick&dirty helpers | 2 | 0 | 1 | 1 |
