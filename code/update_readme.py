@@ -15,6 +15,22 @@ TABLE_END = "<!-- TABLE_END -->"
 # Repos to exclude from the table entirely.
 SKIP_REPOS = {".github", "try-aind-1"}
 
+# Special entries that are not actual GitHub repos but should appear in the table.
+# Each entry is a dict with keys: name, url, description, issues, prs, stars, forks.
+# Use empty string ("") for blank numeric columns.
+SPECIAL_ENTRIES = [
+    {
+        "name": "boarding",  # used as sort key (alphabetical position in table)
+        "display": "con/boarding",
+        "url": "https://github.com/con/catenate/blob/main/conboarding.md",
+        "description": "Onboarding documents",
+        "issues": "",
+        "prs": "",
+        "stars": "",
+        "forks": "",
+    },
+]
+
 # Repos whose names form a compound word when prefixed with "con".
 # Maps repo name -> display label (e.g. "cierge" -> "con/cierge" = concierge).
 CON_WORDPLAY_DISPLAY = {
@@ -94,7 +110,10 @@ def build_table(repos, headers):
         "| Name | Description | Issues | PRs | Stars | Forks |",
         "| --- | --- | --- | --- | --- | --- |",
     ]
-    for repo in sorted(repos, key=lambda r: r["name"].lower()):
+
+    # Build list of (sort_key, row_string) for regular repos
+    entries = []
+    for repo in repos:
         name = repo["name"]
         if name in SKIP_REPOS:
             continue
@@ -106,7 +125,18 @@ def build_table(repos, headers):
         # open_issues_count includes both issues and PRs
         issues = max(0, repo["open_issues_count"] - prs)
         display = CON_WORDPLAY_DISPLAY.get(name, name)
-        rows.append(f"| [{display}]({url}) | {desc} | {issues} | {prs} | {stars} | {forks} |")
+        entries.append((name.lower(), f"| [{display}]({url}) | {desc} | {issues} | {prs} | {stars} | {forks} |"))
+
+    # Add special entries (not actual repos)
+    for entry in SPECIAL_ENTRIES:
+        row = (
+            f"| [{entry['display']}]({entry['url']}) | {entry['description']}"
+            f" | {entry['issues']} | {entry['prs']} | {entry['stars']} | {entry['forks']} |"
+        )
+        entries.append((entry["name"].lower(), row))
+
+    for _, row in sorted(entries, key=lambda x: x[0]):
+        rows.append(row)
     return "\n".join(rows)
 
 

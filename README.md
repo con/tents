@@ -9,6 +9,7 @@ Table of contents for the CON organization.
 | [annextube](https://github.com/con/annextube) | YouTube archive system using git-annex for efficient storage and incremental updates. | 2 | 0 | 1 | 0 |
 | [annextube-action](https://github.com/con/annextube-action) |  | 0 | 0 | 0 | 0 |
 | [annextubetesting](https://github.com/con/annextubetesting) | Repository with backup of @AnnexTubeTesting channel  | 0 | 0 | 0 | 0 |
+| [con/boarding](https://github.com/con/catenate/blob/main/conboarding.md) | Onboarding documents |  |  |  |  |
 | [con/catenate](https://github.com/con/catenate) | All the resources and conText a new conScript needs, smushed together into a single doc. | 3 | 0 | 2 | 4 |
 | [centerforopenneuroscience.org](https://github.com/con/centerforopenneuroscience.org) | Website materials | 8 | 0 | 4 | 25 |
 | [con/ceptualization](https://github.com/con/ceptualization) | Ideas for the projects | 1 | 0 | 0 | 0 |
