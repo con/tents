@@ -13,20 +13,23 @@ Table of contents for the CON organization.
 | [con/catenate](https://github.com/con/catenate) | All the resources and conText a new conScript needs, smushed together into a single doc. | 3 | 0 | 2 | 4 |
 | [centerforopenneuroscience.org](https://github.com/con/centerforopenneuroscience.org) | Website materials | 8 | 0 | 4 | 25 |
 | [con/ceptualization](https://github.com/con/ceptualization) | Ideas for the projects | 1 | 0 | 0 | 0 |
-| [con/cierge](https://github.com/con/cierge) | Temporal itemization for the CON roadmap. | 19 | 0 | 1 | 0 |
+| [con/cierge](https://github.com/con/cierge) | Temporal itemization for the CON roadmap. | 20 | 0 | 1 | 0 |
 | [citations-collector](https://github.com/con/citations-collector) | Discover and curate scholarly citations of articles, datasets and software. | 3 | 0 | 2 | 0 |
 | [communitator](https://github.com/con/communitator) | RFC/idea: A Python module to assist contacting project's community | 2 | 0 | 1 | 0 |
 | [con-intro](https://github.com/con/con-intro) | intro content for CON | 0 | 0 | 0 | 1 |
 | [con/veyor](https://github.com/con/CONveyor) |  | 0 | 0 | 0 | 0 |
 | [demos](https://github.com/con/demos) | Various demos (ATM of con/duct) of tools in asciineema etc | 0 | 0 | 0 | 1 |
 | [docflow](https://github.com/con/docflow) | helper to collab on google docs etc | 1 | 0 | 0 | 0 |
-| [con/duct](https://github.com/con/duct) | A helper to run a command, capture stdout/stderr and details about running | 57 | 9 | 10 | 6 |
+| [con/duct](https://github.com/con/duct) | A helper to run a command, capture stdout/stderr and details about running | 60 | 11 | 10 | 6 |
 | [con/duct-gallery](https://github.com/con/duct-gallery) |  | 1 | 1 | 0 | 1 |
-| [dump-research-info](https://github.com/con/dump-research-info) | A repo that gathers research information related to Center for Open Neuroscience with a tool to dump the gathered info to an instance of dump-things-server | 4 | 0 | 0 | 0 |
+| [dump-research-info](https://github.com/con/dump-research-info) | A repo that gathers research information related to Center for Open Neuroscience with a tool to dump the gathered info to an instance of dump-things-server | 5 | 0 | 0 | 0 |
 | [external-services](https://github.com/con/external-services) | A simple registry of external services to use for YOUR hosted files | 2 | 0 | 0 | 0 |
 | [con/ference](https://github.com/con/ference) | (Idea stage) Open-source platform for virtual&hybrid conferencing | 18 | 0 | 13 | 0 |
 | [con/flux](https://github.com/con/flux) | The utility to draw a map of git/git-annex clones of a repository | 1 | 0 | 0 | 0 |
 | [fscacher](https://github.com/con/fscacher) | Caching results of operations on heavy file trees | 20 | 6 | 2 | 2 |
+| [git-annex](https://github.com/con/git-annex) | A non-official testing bed and distribution of git-annex established for CON & DataLad purposes. Official git-annex repository: https://git.kitenet.net/index.cgi/git-annex.git/ | 25 | 3 | 29 | 5 |
+| [git-annex-ci-client-jobs](https://github.com/con/git-annex-ci-client-jobs) | Not for humans, but for good CI setups to test git-annex | 0 | 3 | 0 | 0 |
+| [git-annex-ci-reports](https://github.com/con/git-annex-ci-reports) |  | 0 | 0 | 1 | 0 |
 | [git-annex-log-stats](https://github.com/con/git-annex-log-stats) | Crude scripts to produce historic plots for git / git-annex repos stats | 0 | 0 | 0 | 0 |
 | [con/job](https://github.com/con/job) | A positive "con job" | 1 | 0 | 1 | 0 |
 | [journals](https://github.com/con/journals) | Registry of journals for Open Neuroscience (WiP: for now mostly dump from https://www.gbif.org/data-papers) | 4 | 0 | 0 | 1 |
@@ -47,7 +50,7 @@ Table of contents for the CON organization.
 | [skills](https://github.com/con/skills) | Anthropics claude-code skills for the CON masses | 0 | 0 | 2 | 2 |
 | [con/solidation](https://github.com/con/solidation) | Produce activities reports from GitHub | 7 | 2 | 0 | 0 |
 | [sparkle-tools](https://github.com/con/sparkle-tools) |  | 1 | 0 | 1 | 2 |
-| [talks](https://github.com/con/talks) | GitHub Mirror of the https://datasets.datalad.org/?dir=/centerforopenneuroscience/talks where you can actually see them rendered | 2 | 2 | 0 | 1 |
+| [talks](https://github.com/con/talks) | GitHub Mirror of the https://datasets.datalad.org/?dir=/centerforopenneuroscience/talks where you can actually see them rendered | 2 | 5 | 0 | 2 |
 | [taxonomy-site-sandbox](https://github.com/con/taxonomy-site-sandbox) |  | 0 | 0 | 0 | 0 |
 | [con/tents](https://github.com/con/tents) | Table of contents for the CON organization. | 0 | 0 | 1 | 0 |
 | [con/tinuous](https://github.com/con/tinuous) | Download build logs and artifacts from GitHub Actions, Travis, and Appveyor | 26 | 5 | 10 | 4 |
@@ -63,5 +66,5 @@ Table of contents for the CON organization.
 | [con/versations](https://github.com/con/versations) |  | 1 | 0 | 0 | 1 |
 | [visidata-demos](https://github.com/con/visidata-demos) | Various demos/explorations of data using visidata | 0 | 0 | 0 | 0 |
 | [work-history-data](https://github.com/con/work-history-data) | A raw API dump of GitHub activity for select CON members. | 0 | 1 | 1 | 0 |
-| [yolo](https://github.com/con/yolo) | Use podman to safely run claude-code with permission bypass (YOLO mode) | 14 | 1 | 12 | 5 |
+| [yolo](https://github.com/con/yolo) | Use podman to safely run claude-code with permission bypass (YOLO mode) | 15 | 2 | 13 | 5 |
 <!-- TABLE_END -->
