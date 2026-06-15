@@ -37,7 +37,7 @@ Table of contents for the CON organization.
 | [liab-deployments](https://github.com/con/liab-deployments) | Fork from https://hub.psychoinformatics.de/lab-in-a-box/liab-deployments | 1 | 1 | 0 | 0 |
 | [mind_2018](https://github.com/con/mind_2018) |  | 0 | 0 | 0 | 0 |
 | [con/noisseur](https://github.com/con/noisseur) | System for automated verification of entered/displayed information (on another computer) | 5 | 1 | 0 | 1 |
-| [nwb2bids](https://github.com/con/nwb2bids) | Reorganize NWB files into a BIDS directory layout. | 36 | 2 | 5 | 6 |
+| [nwb2bids](https://github.com/con/nwb2bids) | Reorganize NWB files into a BIDS directory layout. | 37 | 2 | 5 | 6 |
 | [open-brain-consent](https://github.com/con/open-brain-consent) | Making neuroimaging open from the grounds (consent form) and up (tools) | 36 | 2 | 45 | 37 |
 | [opfvta-reexecution](https://github.com/con/opfvta-reexecution) | Container-based Replication of https://doi.org/10.1038/s41398-022-01812-5 | 0 | 0 | 1 | 1 |
 | [con/quest](https://github.com/con/quest) | Meta-repository to discuss higher level aspects of search'ing for neural data | 1 | 0 | 0 | 0 |
@@ -50,10 +50,10 @@ Table of contents for the CON organization.
 | [skills](https://github.com/con/skills) | Anthropics claude-code skills for the CON masses | 0 | 0 | 2 | 2 |
 | [con/solidation](https://github.com/con/solidation) | Produce activities reports from GitHub | 7 | 2 | 0 | 0 |
 | [sparkle-tools](https://github.com/con/sparkle-tools) |  | 1 | 0 | 1 | 2 |
-| [talks](https://github.com/con/talks) | GitHub Mirror of the https://datasets.datalad.org/?dir=/centerforopenneuroscience/talks where you can actually see them rendered | 2 | 3 | 0 | 2 |
+| [talks](https://github.com/con/talks) | GitHub Mirror of the https://datasets.datalad.org/?dir=/centerforopenneuroscience/talks where you can actually see them rendered | 2 | 2 | 0 | 2 |
 | [taxonomy-site-sandbox](https://github.com/con/taxonomy-site-sandbox) |  | 0 | 0 | 0 | 0 |
 | [con/tents](https://github.com/con/tents) | Table of contents for the CON organization. | 0 | 0 | 1 | 0 |
-| [con/tinuous](https://github.com/con/tinuous) | Download build logs and artifacts from GitHub Actions, Travis, and Appveyor | 26 | 5 | 10 | 4 |
+| [con/tinuous](https://github.com/con/tinuous) | Download build logs and artifacts from GitHub Actions, Travis, and Appveyor | 26 | 6 | 10 | 4 |
 | [con/tinuous-inception](https://github.com/con/tinuous-inception) | CI logs for con/tinuous | 0 | 3 | 0 | 0 |
 | [con/tinuous-template](https://github.com/con/tinuous-template) | Copier template for tinuous | 0 | 0 | 0 | 0 |
 | [con/tinuum](https://github.com/con/tinuum) | Resources (later might be a tool) to create reproducible computational environments | 7 | 0 | 0 | 0 |
