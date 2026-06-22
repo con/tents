@@ -12,15 +12,15 @@ Table of contents for the CON organization.
 | [con/boarding](https://github.com/con/catenate/blob/main/conboarding.md) | Onboarding documents |  |  |  |  |
 | [con/catenate](https://github.com/con/catenate) | All the resources and conText a new conScript needs, smushed together into a single doc. | 3 | 0 | 2 | 4 |
 | [centerforopenneuroscience.org](https://github.com/con/centerforopenneuroscience.org) | Website materials | 9 | 0 | 4 | 25 |
-| [con/ceptualization](https://github.com/con/ceptualization) | Ideas for the projects | 1 | 0 | 0 | 0 |
-| [con/cierge](https://github.com/con/cierge) | Temporal itemization for the CON roadmap. | 20 | 0 | 1 | 0 |
+| [con/ceptualization](https://github.com/con/ceptualization) | Ideas for the projects | 1 | 0 | 1 | 0 |
+| [con/cierge](https://github.com/con/cierge) | Temporal itemization for the CON roadmap. | 17 | 0 | 1 | 0 |
 | [citations-collector](https://github.com/con/citations-collector) | Discover and curate scholarly citations of articles, datasets and software. | 3 | 0 | 2 | 0 |
 | [communitator](https://github.com/con/communitator) | RFC/idea: A Python module to assist contacting project's community | 2 | 0 | 1 | 0 |
 | [con-intro](https://github.com/con/con-intro) | intro content for CON | 0 | 0 | 0 | 1 |
 | [con/veyor](https://github.com/con/CONveyor) |  | 0 | 0 | 0 | 0 |
 | [demos](https://github.com/con/demos) | Various demos (ATM of con/duct) of tools in asciineema etc | 0 | 0 | 0 | 1 |
 | [docflow](https://github.com/con/docflow) | helper to collab on google docs etc | 1 | 0 | 0 | 0 |
-| [con/duct](https://github.com/con/duct) | A helper to run a command, capture stdout/stderr and details about running | 60 | 10 | 10 | 6 |
+| [con/duct](https://github.com/con/duct) | A helper to run a command, capture stdout/stderr and details about running | 60 | 10 | 11 | 6 |
 | [con/duct-gallery](https://github.com/con/duct-gallery) |  | 1 | 1 | 0 | 1 |
 | [dump-research-info](https://github.com/con/dump-research-info) | A repo that gathers research information related to Center for Open Neuroscience with a tool to dump the gathered info to an instance of dump-things-server | 5 | 0 | 0 | 0 |
 | [external-services](https://github.com/con/external-services) | A simple registry of external services to use for YOUR hosted files | 2 | 0 | 0 | 0 |
@@ -48,7 +48,7 @@ Table of contents for the CON organization.
 | [shell-chronicle](https://github.com/con/shell-chronicle) | Persistent, infinite history of shell commands | 0 | 0 | 3 | 1 |
 | [shub](https://github.com/con/shub) | GitHub mirror of http://datasets.datalad.org/?dir=/shub providing historical copy of containers from https://singularity-hub.org | 2 | 0 | 1 | 0 |
 | [skills](https://github.com/con/skills) | Anthropics claude-code skills for the CON masses | 0 | 0 | 2 | 2 |
-| [con/solidation](https://github.com/con/solidation) | Produce activities reports from GitHub | 7 | 2 | 0 | 0 |
+| [con/solidation](https://github.com/con/solidation) | Produce activities reports from GitHub | 7 | 3 | 0 | 0 |
 | [sparkle-tools](https://github.com/con/sparkle-tools) |  | 1 | 0 | 1 | 2 |
 | [talks](https://github.com/con/talks) | GitHub Mirror of the https://datasets.datalad.org/?dir=/centerforopenneuroscience/talks where you can actually see them rendered | 2 | 2 | 0 | 2 |
 | [taxonomy-site-sandbox](https://github.com/con/taxonomy-site-sandbox) |  | 0 | 0 | 0 | 0 |
