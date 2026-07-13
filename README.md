@@ -10,11 +10,11 @@ Table of contents for the CON organization.
 | [annextube-action](https://github.com/con/annextube-action) |  | 0 | 0 | 0 | 0 |
 | [annextubetesting](https://github.com/con/annextubetesting) | Repository with backup of @AnnexTubeTesting channel  | 0 | 0 | 0 | 0 |
 | [con/boarding](https://github.com/con/catenate/blob/main/conboarding.md) | Onboarding documents |  |  |  |  |
-| [con/catenate](https://github.com/con/catenate) | All the resources and conText a new conScript needs, smushed together into a single doc. | 3 | 0 | 2 | 4 |
-| [centerforopenneuroscience.org](https://github.com/con/centerforopenneuroscience.org) | Website materials | 9 | 0 | 4 | 25 |
+| [con/catenate](https://github.com/con/catenate) | All the resources and conText a new conScript needs, smushed together into a single doc. | 3 | 1 | 2 | 5 |
+| [centerforopenneuroscience.org](https://github.com/con/centerforopenneuroscience.org) | Website materials | 9 | 0 | 4 | 26 |
 | [con/ceptualization](https://github.com/con/ceptualization) | Ideas for the projects | 1 | 0 | 1 | 0 |
-| [con/cierge](https://github.com/con/cierge) | Temporal itemization for the CON roadmap. | 19 | 0 | 1 | 0 |
-| [citations-collector](https://github.com/con/citations-collector) | Discover and curate scholarly citations of articles, datasets and software. | 3 | 0 | 2 | 0 |
+| [con/cierge](https://github.com/con/cierge) | Temporal itemization for the CON roadmap. | 22 | 0 | 1 | 0 |
+| [citations-collector](https://github.com/con/citations-collector) | Discover and curate scholarly citations of articles, datasets and software. | 4 | 0 | 2 | 0 |
 | [communitator](https://github.com/con/communitator) | RFC/idea: A Python module to assist contacting project's community | 2 | 0 | 1 | 0 |
 | [con-intro](https://github.com/con/con-intro) | intro content for CON | 0 | 0 | 0 | 1 |
 | [con/veyor](https://github.com/con/CONveyor) |  | 0 | 0 | 0 | 0 |
@@ -66,5 +66,5 @@ Table of contents for the CON organization.
 | [con/versations](https://github.com/con/versations) |  | 1 | 0 | 0 | 1 |
 | [visidata-demos](https://github.com/con/visidata-demos) | Various demos/explorations of data using visidata | 0 | 0 | 0 | 0 |
 | [work-history-data](https://github.com/con/work-history-data) | A raw API dump of GitHub activity for select CON members. | 0 | 1 | 1 | 0 |
-| [yolo](https://github.com/con/yolo) | Use podman to safely run claude-code with permission bypass (YOLO mode) | 14 | 1 | 13 | 5 |
+| [yolo](https://github.com/con/yolo) | Use podman to safely run claude-code with permission bypass (YOLO mode) | 15 | 1 | 13 | 5 |
 <!-- TABLE_END -->
