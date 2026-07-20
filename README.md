@@ -6,21 +6,21 @@ Table of contents for the CON organization.
 | Name | Description | Issues | PRs | Stars | Forks |
 | --- | --- | --- | --- | --- | --- |
 | [2025-sfn-standards](https://github.com/con/2025-sfn-standards) | Poster covering standards in neuroscience presented at SfN 2025 | 0 | 0 | 0 | 0 |
-| [annextube](https://github.com/con/annextube) | YouTube archive system using git-annex for efficient storage and incremental updates. | 2 | 0 | 2 | 0 |
+| [annextube](https://github.com/con/annextube) | YouTube archive system using git-annex for efficient storage and incremental updates. | 2 | 0 | 3 | 0 |
 | [annextube-action](https://github.com/con/annextube-action) |  | 0 | 0 | 0 | 0 |
 | [annextubetesting](https://github.com/con/annextubetesting) | Repository with backup of @AnnexTubeTesting channel  | 0 | 0 | 0 | 0 |
 | [con/boarding](https://github.com/con/catenate/blob/main/conboarding.md) | Onboarding documents |  |  |  |  |
-| [con/catenate](https://github.com/con/catenate) | All the resources and conText a new conScript needs, smushed together into a single doc. | 3 | 1 | 2 | 5 |
+| [con/catenate](https://github.com/con/catenate) | All the resources and conText a new conScript needs, smushed together into a single doc. | 3 | 0 | 2 | 5 |
 | [centerforopenneuroscience.org](https://github.com/con/centerforopenneuroscience.org) | Website materials | 9 | 0 | 4 | 26 |
-| [con/ceptualization](https://github.com/con/ceptualization) | Ideas for the projects | 1 | 0 | 1 | 0 |
+| [con/ceptualization](https://github.com/con/ceptualization) | Ideas for the projects | 2 | 0 | 1 | 0 |
 | [con/cierge](https://github.com/con/cierge) | Temporal itemization for the CON roadmap. | 22 | 0 | 1 | 0 |
 | [citations-collector](https://github.com/con/citations-collector) | Discover and curate scholarly citations of articles, datasets and software. | 4 | 0 | 2 | 0 |
 | [communitator](https://github.com/con/communitator) | RFC/idea: A Python module to assist contacting project's community | 2 | 0 | 1 | 0 |
 | [con-intro](https://github.com/con/con-intro) | intro content for CON | 0 | 0 | 0 | 1 |
 | [con/veyor](https://github.com/con/CONveyor) |  | 0 | 0 | 0 | 0 |
 | [demos](https://github.com/con/demos) | Various demos (ATM of con/duct) of tools in asciineema etc | 0 | 0 | 0 | 1 |
-| [docflow](https://github.com/con/docflow) | helper to collab on google docs etc | 1 | 0 | 0 | 0 |
-| [con/duct](https://github.com/con/duct) | A helper to run a command, capture stdout/stderr and details about running | 60 | 11 | 11 | 6 |
+| [docflow](https://github.com/con/docflow) | helper to collab on google docs etc | 2 | 0 | 0 | 0 |
+| [con/duct](https://github.com/con/duct) | A helper to run a command, capture stdout/stderr and details about running | 63 | 12 | 11 | 6 |
 | [con/duct-gallery](https://github.com/con/duct-gallery) |  | 1 | 1 | 0 | 1 |
 | [dump-research-info](https://github.com/con/dump-research-info) | A repo that gathers research information related to Center for Open Neuroscience with a tool to dump the gathered info to an instance of dump-things-server | 5 | 0 | 0 | 0 |
 | [external-services](https://github.com/con/external-services) | A simple registry of external services to use for YOUR hosted files | 2 | 0 | 0 | 0 |
@@ -50,6 +50,8 @@ Table of contents for the CON organization.
 | [skills](https://github.com/con/skills) | Anthropics claude-code skills for the CON masses | 0 | 0 | 2 | 2 |
 | [con/solidation](https://github.com/con/solidation) | Produce activities reports from GitHub | 7 | 3 | 0 | 0 |
 | [sparkle-tools](https://github.com/con/sparkle-tools) |  | 1 | 0 | 1 | 2 |
+| [STAMPED-dl_morphometrics_biases](https://github.com/con/STAMPED-dl_morphometrics_biases) | A review and reimplementation of a study to conform to STAMPED principles | 0 | 0 | 0 | 0 |
+| [STAMPED-dl_morphometrics_biases-accepted-containers](https://github.com/con/STAMPED-dl_morphometrics_biases-accepted-containers) | Accepted exact SIF registry for STAMPED-dl_morphometrics_biases | 0 | 0 | 0 | 0 |
 | [talks](https://github.com/con/talks) | GitHub Mirror of the https://datasets.datalad.org/?dir=/centerforopenneuroscience/talks where you can actually see them rendered | 2 | 2 | 0 | 2 |
 | [taxonomy-site-sandbox](https://github.com/con/taxonomy-site-sandbox) |  | 0 | 0 | 0 | 0 |
 | [con/tents](https://github.com/con/tents) | Table of contents for the CON organization. | 0 | 0 | 1 | 0 |
