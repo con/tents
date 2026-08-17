@@ -27,7 +27,7 @@ Table of contents for the CON organization.
 | [con/ference](https://github.com/con/ference) | (Idea stage) Open-source platform for virtual&hybrid conferencing | 18 | 0 | 13 | 0 |
 | [con/flux](https://github.com/con/flux) | The utility to draw a map of git/git-annex clones of a repository | 1 | 0 | 0 | 0 |
 | [fscacher](https://github.com/con/fscacher) | Caching results of operations on heavy file trees | 20 | 6 | 2 | 2 |
-| [git-annex](https://github.com/con/git-annex) | A non-official testing bed and distribution of git-annex established for CON & DataLad purposes. Official git-annex repository: https://git.kitenet.net/index.cgi/git-annex.git/ | 22 | 9 | 29 | 5 |
+| [git-annex](https://github.com/con/git-annex) | A non-official testing bed and distribution of git-annex established for CON & DataLad purposes. Official git-annex repository: https://git.kitenet.net/index.cgi/git-annex.git/ | 22 | 8 | 29 | 5 |
 | [git-annex-ci-client-jobs](https://github.com/con/git-annex-ci-client-jobs) | Not for humans, but for good CI setups to test git-annex | 0 | 3 | 0 | 0 |
 | [git-annex-ci-reports](https://github.com/con/git-annex-ci-reports) |  | 0 | 0 | 1 | 0 |
 | [git-annex-log-stats](https://github.com/con/git-annex-log-stats) | Crude scripts to produce historic plots for git / git-annex repos stats | 0 | 0 | 0 | 0 |
@@ -41,20 +41,25 @@ Table of contents for the CON organization.
 | [nwb2bids](https://github.com/con/nwb2bids) | Reorganize NWB files into a BIDS directory layout. | 37 | 2 | 5 | 6 |
 | [open-brain-consent](https://github.com/con/open-brain-consent) | Making neuroimaging open from the grounds (consent form) and up (tools) | 36 | 2 | 45 | 37 |
 | [opfvta-reexecution](https://github.com/con/opfvta-reexecution) | Container-based Replication of https://doi.org/10.1038/s41398-022-01812-5 | 0 | 0 | 1 | 1 |
-| [orinoco-lite-dev](https://github.com/con/orinoco-lite-dev) | Building Research Group website from metadata on CI | 3 | 0 | 0 | 0 |
+| [orinoco-lite-dev](https://github.com/con/orinoco-lite-dev) | Content-neutral Orinoco Lite engine and deterministic runtime for metadata-driven sites. See the full-fidelity example site. | 0 | 0 | 0 | 0 |
+| [orinoco-lite-template](https://github.com/con/orinoco-lite-template) | Content-neutral Copier and GitHub template for Orinoco Lite sites. See the full-fidelity example site. | 0 | 0 | 0 | 0 |
+| [pool.psychoinformatics.de-ui](https://github.com/con/pool.psychoinformatics.de-ui) | CON local deployment mirror of the upstream Psychoinformatics pool UI | 0 | 0 | 0 | 0 |
 | [con/quest](https://github.com/con/quest) | Meta-repository to discuss higher level aspects of search'ing for neural data | 1 | 0 | 0 | 0 |
 | [scripts](https://github.com/con/scripts) | Various scripts for maintenance and administration of various things at CON and around | 0 | 0 | 0 | 0 |
 | [con/serve](https://github.com/con/serve) |  | 0 | 0 | 0 | 0 |
 | [con/serve-liab](https://github.com/con/serve-liab) | liab setup for conserve (explorations ATM of various potential setups) | 0 | 0 | 0 | 0 |
 | [serve-wayback-archive-demo](https://github.com/con/serve-wayback-archive-demo) | Demo on my attempt to use wayback-archive | 0 | 0 | 0 | 0 |
+| [shacl-vue](https://github.com/con/shacl-vue) | CON deployment mirror and tracked compatibility patches for upstream shacl-vue | 0 | 0 | 0 | 0 |
 | [shell-chronicle](https://github.com/con/shell-chronicle) | Persistent, infinite history of shell commands | 0 | 0 | 3 | 1 |
 | [shub](https://github.com/con/shub) | GitHub mirror of http://datasets.datalad.org/?dir=/shub providing historical copy of containers from https://singularity-hub.org | 2 | 0 | 1 | 0 |
-| [skills](https://github.com/con/skills) | Anthropics claude-code skills for the CON masses | 2 | 0 | 2 | 2 |
+| [skills](https://github.com/con/skills) | Anthropics claude-code skills for the CON masses | 2 | 0 | 2 | 3 |
 | [con/solidation](https://github.com/con/solidation) | Produce activities reports from GitHub | 7 | 3 | 0 | 0 |
 | [sparkle-tools](https://github.com/con/sparkle-tools) |  | 1 | 0 | 1 | 2 |
-| [talks](https://github.com/con/talks) | GitHub Mirror of the https://datasets.datalad.org/?dir=/centerforopenneuroscience/talks where you can actually see them rendered | 2 | 1 | 0 | 2 |
+| [talks](https://github.com/con/talks) | GitHub Mirror of the https://datasets.datalad.org/?dir=/centerforopenneuroscience/talks where you can actually see them rendered | 2 | 2 | 0 | 2 |
 | [taxonomy-site-sandbox](https://github.com/con/taxonomy-site-sandbox) |  | 0 | 0 | 0 | 0 |
 | [con/tents](https://github.com/con/tents) | Table of contents for the CON organization. | 0 | 0 | 1 | 0 |
+| [terminal-bench-science](https://github.com/con/terminal-bench-science) | Terminal-Bench-Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal | 0 | 0 | 0 | 0 |
+| [test-orinoco-downstream-website](https://github.com/con/test-orinoco-downstream-website) | Full-fidelity, non-production Orinoco Lite downstream site with the complete accepted CON content and test contract. | 0 | 1 | 0 | 0 |
 | [con/tinuous](https://github.com/con/tinuous) | Download build logs and artifacts from GitHub Actions, Travis, and Appveyor | 26 | 7 | 10 | 4 |
 | [con/tinuous-inception](https://github.com/con/tinuous-inception) | CI logs for con/tinuous | 0 | 3 | 0 | 0 |
 | [con/tinuous-template](https://github.com/con/tinuous-template) | Copier template for tinuous | 0 | 0 | 0 | 0 |
