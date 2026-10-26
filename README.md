@@ -11,10 +11,10 @@ Table of contents for the CON organization.
 | [annextubetesting](https://github.com/con/annextubetesting) | Repository with backup of @AnnexTubeTesting channel  | 0 | 0 | 0 | 0 |
 | [con/boarding](https://github.com/con/catenate/blob/main/conboarding.md) | Onboarding documents |  |  |  |  |
 | [con/catenate](https://github.com/con/catenate) | All the resources and conText a new conScript needs, smushed together into a single doc. | 3 | 1 | 2 | 5 |
-| [centerforopenneuroscience.org](https://github.com/con/centerforopenneuroscience.org) | Website materials | 8 | 3 | 4 | 27 |
+| [centerforopenneuroscience.org](https://github.com/con/centerforopenneuroscience.org) | Website materials | 4 | 2 | 4 | 27 |
 | [con/ceptualization](https://github.com/con/ceptualization) | Ideas for the projects | 6 | 1 | 1 | 0 |
 | [ci-actions](https://github.com/con/ci-actions) | Various github (and potentially forgejo) actions to be reused | 0 | 3 | 0 | 0 |
-| [con/cierge](https://github.com/con/cierge) | Temporal itemization for the CON roadmap. | 23 | 0 | 1 | 0 |
+| [con/cierge](https://github.com/con/cierge) | Temporal itemization for the CON roadmap. | 20 | 0 | 1 | 0 |
 | [citations-collector](https://github.com/con/citations-collector) | Discover and curate scholarly citations of articles, datasets and software. | 4 | 1 | 2 | 0 |
 | [communitator](https://github.com/con/communitator) | RFC/idea: A Python module to assist contacting project's community | 2 | 0 | 1 | 0 |
 | [con-intro](https://github.com/con/con-intro) | Intro content for CON circa OHBM 2020 and our "Mission control booth" | 0 | 0 | 0 | 1 |
@@ -22,7 +22,7 @@ Table of contents for the CON organization.
 | [demos](https://github.com/con/demos) | Various demos (ATM of con/duct) of tools in asciineema etc | 0 | 0 | 0 | 1 |
 | [dev-centerforopenneuroscience.org](https://github.com/con/dev-centerforopenneuroscience.org) | Development (ORINOCO-LITE based) website | 0 | 3 | 0 | 0 |
 | [docflow](https://github.com/con/docflow) | helper to collab on google docs etc | 1 | 0 | 0 | 0 |
-| [con/duct](https://github.com/con/duct) | A helper to run a command, capture stdout/stderr and details about running | 63 | 9 | 12 | 7 |
+| [con/duct](https://github.com/con/duct) | A helper to run a command, capture stdout/stderr and details about running | 61 | 7 | 13 | 7 |
 | [con/duct-gallery](https://github.com/con/duct-gallery) | Sample con/duct logs & their plots  | 1 | 0 | 0 | 1 |
 | [dump-research-info](https://github.com/con/dump-research-info) | A repo that gathers research information related to Center for Open Neuroscience with a tool to dump the gathered info to an instance of dump-things-server | 7 | 0 | 0 | 1 |
 | [dump-things-pyclient](https://github.com/con/dump-things-pyclient) | CON patched fork from https://hub.psychoinformatics.de/orinoco/dump-things-pyclient | 0 | 0 | 0 | 0 |
@@ -55,11 +55,11 @@ Table of contents for the CON organization.
 | [serve-monorepo-dev](https://github.com/con/serve-monorepo-dev) | Testbed for developing test monorepo feature. Nothing to see here | 0 | 0 | 0 | 0 |
 | [serve-wayback-archive-demo](https://github.com/con/serve-wayback-archive-demo) | Demo on my attempt to use wayback-archive | 0 | 0 | 0 | 0 |
 | [shacl-vue](https://github.com/con/shacl-vue) | CON deployment mirror and tracked compatibility patches for upstream shacl-vue | 0 | 0 | 0 | 0 |
-| [shell-chronicle](https://github.com/con/shell-chronicle) | Persistent, infinite history of shell commands | 0 | 0 | 3 | 1 |
+| [shell-chronicle](https://github.com/con/shell-chronicle) | Persistent, infinite history of shell commands | 0 | 0 | 4 | 1 |
 | [shub](https://github.com/con/shub) | GitHub mirror of http://datasets.datalad.org/?dir=/shub providing historical copy of containers from https://singularity-hub.org | 2 | 0 | 1 | 0 |
 | [sistence](https://github.com/con/sistence) | The dashboard summarizing our con/sistent reports over time. | 0 | 0 | 0 | 1 |
 | [sistent](https://github.com/con/sistent) | Assessing the consistency of a configurable selection of GitHub repositories across organizations. | 0 | 0 | 0 | 1 |
-| [skills](https://github.com/con/skills) | Agent skills for the CON masses | 7 | 7 | 2 | 4 |
+| [skills](https://github.com/con/skills) | Agent skills for the CON masses | 10 | 10 | 2 | 4 |
 | [con/solidation](https://github.com/con/solidation) | Produce activities reports from GitHub | 7 | 4 | 0 | 0 |
 | [sparkle-tools](https://github.com/con/sparkle-tools) |  | 1 | 0 | 1 | 2 |
 | [spectus](https://github.com/con/spectus) | Metaview of cross-org GitHub status for maintenance purposes. | 0 | 0 | 1 | 1 |
