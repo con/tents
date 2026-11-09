@@ -11,10 +11,10 @@ Table of contents for the CON organization.
 | [annextubetesting](https://github.com/con/annextubetesting) | Repository with backup of @AnnexTubeTesting channel  | 0 | 0 | 0 | 0 |
 | [con/boarding](https://github.com/con/catenate/blob/main/conboarding.md) | Onboarding documents |  |  |  |  |
 | [con/catenate](https://github.com/con/catenate) | All the resources and conText a new conScript needs, smushed together into a single doc. | 3 | 0 | 2 | 5 |
-| [centerforopenneuroscience.org](https://github.com/con/centerforopenneuroscience.org) | Website materials | 4 | 3 | 4 | 27 |
+| [centerforopenneuroscience.org](https://github.com/con/centerforopenneuroscience.org) | Website materials | 4 | 2 | 4 | 27 |
 | [con/ceptualization](https://github.com/con/ceptualization) | Ideas for the projects | 7 | 1 | 1 | 0 |
 | [ci-actions](https://github.com/con/ci-actions) | Various github (and potentially forgejo) actions to be reused | 0 | 3 | 0 | 0 |
-| [con/cierge](https://github.com/con/cierge) | Temporal itemization for the CON roadmap. | 16 | 0 | 1 | 0 |
+| [con/cierge](https://github.com/con/cierge) | Temporal itemization for the CON roadmap. | 10 | 0 | 1 | 0 |
 | [citations-collector](https://github.com/con/citations-collector) | Discover and curate scholarly citations of articles, datasets and software. | 4 | 1 | 2 | 0 |
 | [communitator](https://github.com/con/communitator) | RFC/idea: A Python module to assist contacting project's community | 2 | 0 | 1 | 0 |
 | [con-intro](https://github.com/con/con-intro) | Intro content for CON circa OHBM 2020 and our "Mission control booth" | 0 | 0 | 0 | 1 |
@@ -22,7 +22,7 @@ Table of contents for the CON organization.
 | [demos](https://github.com/con/demos) | Various demos (ATM of con/duct) of tools in asciineema etc | 0 | 0 | 0 | 1 |
 | [dev-centerforopenneuroscience.org](https://github.com/con/dev-centerforopenneuroscience.org) | Development (ORINOCO-LITE based) website | 1 | 2 | 0 | 0 |
 | [docflow](https://github.com/con/docflow) | helper to collab on google docs etc | 1 | 0 | 0 | 0 |
-| [con/duct](https://github.com/con/duct) | A helper to run a command, capture stdout/stderr and details about running | 61 | 7 | 13 | 6 |
+| [con/duct](https://github.com/con/duct) | A helper to run a command, capture stdout/stderr and details about running | 59 | 7 | 13 | 6 |
 | [con/duct-gallery](https://github.com/con/duct-gallery) | Sample con/duct logs & their plots  | 1 | 0 | 0 | 1 |
 | [dump-research-info](https://github.com/con/dump-research-info) | A repo that gathers research information related to Center for Open Neuroscience with a tool to dump the gathered info to an instance of dump-things-server | 7 | 0 | 0 | 1 |
 | [dump-things-pyclient](https://github.com/con/dump-things-pyclient) | CON patched fork from https://hub.psychoinformatics.de/orinoco/dump-things-pyclient | 0 | 0 | 0 | 0 |
@@ -31,7 +31,7 @@ Table of contents for the CON organization.
 | [con/ference](https://github.com/con/ference) | (Idea stage) Open-source platform for virtual&hybrid conferencing | 18 | 0 | 13 | 0 |
 | [con/flux](https://github.com/con/flux) | The utility to draw a map of git/git-annex clones of a repository | 1 | 0 | 0 | 0 |
 | [fscacher](https://github.com/con/fscacher) | Caching results of operations on heavy file trees | 21 | 3 | 2 | 3 |
-| [git-annex](https://github.com/con/git-annex) | A non-official testing bed and distribution of git-annex established for CON & DataLad purposes. Official git-annex repository: https://git.kitenet.net/index.cgi/git-annex.git/ | 28 | 4 | 30 | 5 |
+| [git-annex](https://github.com/con/git-annex) | A non-official testing bed and distribution of git-annex established for CON & DataLad purposes. Official git-annex repository: https://git.kitenet.net/index.cgi/git-annex.git/ | 28 | 5 | 30 | 5 |
 | [git-annex-ci-client-jobs](https://github.com/con/git-annex-ci-client-jobs) | Not for humans, but for good CI setups to test git-annex | 0 | 3 | 0 | 0 |
 | [git-annex-ci-reports](https://github.com/con/git-annex-ci-reports) |  | 0 | 0 | 1 | 0 |
 | [git-annex-log-stats](https://github.com/con/git-annex-log-stats) | Crude scripts to produce historic plots for git / git-annex repos stats | 0 | 0 | 0 | 0 |
@@ -43,8 +43,8 @@ Table of contents for the CON organization.
 | [mechababs](https://github.com/con/mechababs) | Automate BABs at scale and collect orchestration provenance | 70 | 1 | 1 | 4 |
 | [mind_2018](https://github.com/con/mind_2018) |  | 0 | 0 | 0 | 0 |
 | [con/noisseur](https://github.com/con/noisseur) | System for automated verification of entered/displayed information (on another computer) | 5 | 1 | 0 | 1 |
-| [nwb2bids](https://github.com/con/nwb2bids) | Reorganize NWB files into a BIDS directory layout. | 39 | 2 | 5 | 6 |
-| [open-brain-consent](https://github.com/con/open-brain-consent) | Making neuroimaging open from the grounds (consent form) and up (tools) | 36 | 2 | 45 | 37 |
+| [nwb2bids](https://github.com/con/nwb2bids) | Reorganize NWB files into a BIDS directory layout. | 39 | 3 | 5 | 6 |
+| [open-brain-consent](https://github.com/con/open-brain-consent) | Making neuroimaging open from the grounds (consent form) and up (tools) | 36 | 2 | 45 | 38 |
 | [opfvta-reexecution](https://github.com/con/opfvta-reexecution) | Container-based Replication of https://doi.org/10.1038/s41398-022-01812-5 | 0 | 0 | 1 | 1 |
 | [pool.psychoinformatics.de-ui](https://github.com/con/pool.psychoinformatics.de-ui) | CON local deployment mirror of the upstream Psychoinformatics pool UI | 0 | 0 | 0 | 0 |
 | [query-things](https://github.com/con/query-things) | Clone of original https://hub.psychoinformatics.de/orinoco/query-things | 0 | 0 | 0 | 0 |
@@ -59,7 +59,7 @@ Table of contents for the CON organization.
 | [shub](https://github.com/con/shub) | GitHub mirror of http://datasets.datalad.org/?dir=/shub providing historical copy of containers from https://singularity-hub.org | 2 | 0 | 1 | 0 |
 | [sistence](https://github.com/con/sistence) | The dashboard summarizing our con/sistent reports over time. | 0 | 0 | 0 | 1 |
 | [sistent](https://github.com/con/sistent) | Assessing the consistency of a configurable selection of GitHub repositories across organizations. | 0 | 0 | 0 | 1 |
-| [skills](https://github.com/con/skills) | Agent skills for the CON masses | 12 | 7 | 2 | 4 |
+| [skills](https://github.com/con/skills) | Agent skills for the CON masses | 12 | 10 | 2 | 4 |
 | [con/solidation](https://github.com/con/solidation) | Produce activities reports from GitHub | 7 | 4 | 0 | 0 |
 | [sparkle-tools](https://github.com/con/sparkle-tools) |  | 1 | 0 | 1 | 2 |
 | [spectus](https://github.com/con/spectus) | Metaview of cross-org GitHub status for maintenance purposes. | 0 | 0 | 1 | 1 |
@@ -70,10 +70,10 @@ Table of contents for the CON organization.
 | [con/tinuous](https://github.com/con/tinuous) | Download build logs and artifacts from GitHub Actions, Travis, and Appveyor | 26 | 6 | 10 | 5 |
 | [con/tinuous-inception](https://github.com/con/tinuous-inception) | CI logs for con/tinuous | 0 | 3 | 0 | 0 |
 | [con/tinuous-template](https://github.com/con/tinuous-template) | Copier template for tinuous | 0 | 0 | 0 | 0 |
-| [con/tinuum](https://github.com/con/tinuum) | Resources (later might be a tool) to create reproducible computational environments | 7 | 0 | 0 | 0 |
-| [con/tributors](https://github.com/con/tributors) | Pay tribute to your contributors! A tool to automatically update contributor files. | 18 | 1 | 14 | 5 |
+| [con/tinuum](https://github.com/con/tinuum) | Resources (later might be a tool) to create reproducible computational environments | 6 | 0 | 0 | 0 |
+| [con/tributors](https://github.com/con/tributors) | Pay tribute to your contributors! A tool to automatically update contributor files. | 18 | 2 | 14 | 6 |
 | [tube](https://github.com/con/tube) | some default | 0 | 0 | 0 | 1 |
-| [upptime](https://github.com/con/upptime) | Uptime of various CON project websites/services | 0 | 0 | 0 | 0 |
+| [upptime](https://github.com/con/upptime) | Uptime of various CON project websites/services | 2 | 0 | 0 | 0 |
 | [utils](https://github.com/con/utils) | Collection of utils from CON folks. Mostly quick&dirty helpers | 2 | 0 | 1 | 1 |
 | [validation](https://github.com/con/validation) | Platform to discuss/distill coordination for validators output(s) | 3 | 3 | 1 | 1 |
 | [vandermeerlab-to-bids](https://github.com/con/vandermeerlab-to-bids) | Conversion tools for ingesting data from the van der Meer group at Dartmouth College and outputting it into BEP-32 compliant datasets for upload to the DANDI Archive. | 2 | 0 | 1 | 0 |
