@@ -15,7 +15,7 @@ Table of contents for the CON organization.
 | [con/ceptualization](https://github.com/con/ceptualization) | Ideas for the projects | 7 | 1 | 1 | 0 |
 | [ci-actions](https://github.com/con/ci-actions) | Various github (and potentially forgejo) actions to be reused | 0 | 3 | 0 | 0 |
 | [con/cierge](https://github.com/con/cierge) | Temporal itemization for the CON roadmap. | 10 | 0 | 1 | 0 |
-| [citations-collector](https://github.com/con/citations-collector) | Discover and curate scholarly citations of articles, datasets and software. | 4 | 1 | 2 | 0 |
+| [citations-collector](https://github.com/con/citations-collector) | Discover and curate scholarly citations of articles, datasets and software. | 4 | 0 | 2 | 0 |
 | [communitator](https://github.com/con/communitator) | RFC/idea: A Python module to assist contacting project's community | 2 | 0 | 1 | 0 |
 | [con-intro](https://github.com/con/con-intro) | Intro content for CON circa OHBM 2020 and our "Mission control booth" | 0 | 0 | 0 | 1 |
 | [con/veyor](https://github.com/con/CONveyor) |  | 0 | 0 | 0 | 0 |
@@ -31,7 +31,7 @@ Table of contents for the CON organization.
 | [con/ference](https://github.com/con/ference) | (Idea stage) Open-source platform for virtual&hybrid conferencing | 18 | 0 | 13 | 0 |
 | [con/flux](https://github.com/con/flux) | The utility to draw a map of git/git-annex clones of a repository | 1 | 0 | 0 | 0 |
 | [fscacher](https://github.com/con/fscacher) | Caching results of operations on heavy file trees | 21 | 3 | 2 | 3 |
-| [git-annex](https://github.com/con/git-annex) | A non-official testing bed and distribution of git-annex established for CON & DataLad purposes. Official git-annex repository: https://git.kitenet.net/index.cgi/git-annex.git/ | 28 | 5 | 30 | 5 |
+| [git-annex](https://github.com/con/git-annex) | A non-official testing bed and distribution of git-annex established for CON & DataLad purposes. Official git-annex repository: https://git.kitenet.net/index.cgi/git-annex.git/ | 29 | 6 | 30 | 5 |
 | [git-annex-ci-client-jobs](https://github.com/con/git-annex-ci-client-jobs) | Not for humans, but for good CI setups to test git-annex | 0 | 3 | 0 | 0 |
 | [git-annex-ci-reports](https://github.com/con/git-annex-ci-reports) |  | 0 | 0 | 1 | 0 |
 | [git-annex-log-stats](https://github.com/con/git-annex-log-stats) | Crude scripts to produce historic plots for git / git-annex repos stats | 0 | 0 | 0 | 0 |
@@ -43,7 +43,7 @@ Table of contents for the CON organization.
 | [mechababs](https://github.com/con/mechababs) | Automate BABs at scale and collect orchestration provenance | 70 | 1 | 1 | 4 |
 | [mind_2018](https://github.com/con/mind_2018) |  | 0 | 0 | 0 | 0 |
 | [con/noisseur](https://github.com/con/noisseur) | System for automated verification of entered/displayed information (on another computer) | 5 | 1 | 0 | 1 |
-| [nwb2bids](https://github.com/con/nwb2bids) | Reorganize NWB files into a BIDS directory layout. | 39 | 3 | 5 | 6 |
+| [nwb2bids](https://github.com/con/nwb2bids) | Reorganize NWB files into a BIDS directory layout. | 39 | 2 | 5 | 6 |
 | [open-brain-consent](https://github.com/con/open-brain-consent) | Making neuroimaging open from the grounds (consent form) and up (tools) | 36 | 2 | 45 | 38 |
 | [opfvta-reexecution](https://github.com/con/opfvta-reexecution) | Container-based Replication of https://doi.org/10.1038/s41398-022-01812-5 | 0 | 0 | 1 | 1 |
 | [pool.psychoinformatics.de-ui](https://github.com/con/pool.psychoinformatics.de-ui) | CON local deployment mirror of the upstream Psychoinformatics pool UI | 0 | 0 | 0 | 0 |
@@ -52,14 +52,14 @@ Table of contents for the CON organization.
 | [scripts](https://github.com/con/scripts) | Various scripts for maintenance and administration of various things at CON and around | 0 | 0 | 0 | 0 |
 | [con/serve](https://github.com/con/serve) |  | 0 | 1 | 0 | 0 |
 | [con/serve-liab](https://github.com/con/serve-liab) | liab setup for conserve (explorations ATM of various potential setups) | 0 | 0 | 0 | 0 |
-| [serve-monorepo-dev](https://github.com/con/serve-monorepo-dev) | Testbed for developing test monorepo feature. Nothing to see here | 0 | 0 | 0 | 0 |
+| [serve-monorepo-dev](https://github.com/con/serve-monorepo-dev) | experiment...  | 0 | 0 | 0 | 0 |
 | [serve-wayback-archive-demo](https://github.com/con/serve-wayback-archive-demo) | Demo on my attempt to use wayback-archive | 0 | 0 | 0 | 0 |
 | [shacl-vue](https://github.com/con/shacl-vue) | CON deployment mirror and tracked compatibility patches for upstream shacl-vue | 0 | 0 | 0 | 0 |
 | [shell-chronicle](https://github.com/con/shell-chronicle) | Persistent, infinite history of shell commands | 0 | 0 | 4 | 1 |
 | [shub](https://github.com/con/shub) | GitHub mirror of http://datasets.datalad.org/?dir=/shub providing historical copy of containers from https://singularity-hub.org | 2 | 0 | 1 | 0 |
 | [sistence](https://github.com/con/sistence) | The dashboard summarizing our con/sistent reports over time. | 0 | 0 | 0 | 1 |
 | [sistent](https://github.com/con/sistent) | Assessing the consistency of a configurable selection of GitHub repositories across organizations. | 0 | 0 | 0 | 1 |
-| [skills](https://github.com/con/skills) | Agent skills for the CON masses | 12 | 10 | 2 | 4 |
+| [skills](https://github.com/con/skills) | Agent skills for the CON masses | 13 | 4 | 2 | 4 |
 | [con/solidation](https://github.com/con/solidation) | Produce activities reports from GitHub | 7 | 4 | 0 | 0 |
 | [sparkle-tools](https://github.com/con/sparkle-tools) |  | 1 | 0 | 1 | 2 |
 | [spectus](https://github.com/con/spectus) | Metaview of cross-org GitHub status for maintenance purposes. | 0 | 0 | 1 | 1 |
